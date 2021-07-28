@@ -6,7 +6,7 @@ The database is used from TMDb.
 
 I took help from YouTube and documentation of Next.js and TailwindCSS.
 
-Website is live hosted on [Vercel](mrdb.vercel.app) and is constantly updated. Suggestions are most welcomed just mail me on aryanp@pm.me .
+Website is live hosted on [Vercel](http://mrdb.vercel.app) and is constantly updated. Suggestions are most welcomed just mail me on aryanp@pm.me .
 
 
 
