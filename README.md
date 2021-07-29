@@ -1,3 +1,16 @@
+MRDb(Movie Review Database)
+
+Website which displays all latest trending movies and tv series reviews available on OTT platforms.
+
+The database is used from TMDb.
+
+I took help from YouTube and documentation of Next.js and TailwindCSS.
+
+Website is live hosted on [Vercel](http://mrdb.vercel.app) and is constantly updated. Suggestions are most welcomed just mail me on aryanp@pm.me .
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
