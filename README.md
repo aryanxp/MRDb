@@ -1,4 +1,4 @@
-MRDb(Movie Review Database)
+## MRDb(Movie Review Database)
 
 Website which displays all latest trending movies and tv series reviews available on OTT platforms.
 
