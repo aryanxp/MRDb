@@ -1,6 +1,6 @@
 <h1 align="center">MRDb(Movie Review Database)</h1>
 
-![Build status](https://github.com/aryanxp/MRDb/actions/workflows/main.yml/badge.svg)
+![Build status](https://github.com/aryanxp/MRDb/actions/workflows/codeql-analysis.yml/badge.svg)
 
 Website which displays all latest trending movies and tv series reviews available on OTT platforms.
 
