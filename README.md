@@ -2,16 +2,24 @@
 
 ![Build status](https://github.com/aryanxp/MRDb/actions/workflows/codeql-analysis.yml/badge.svg)
 
-Website which displays all latest trending movies and tv series reviews available on OTT platforms.
+* [x]Website which provides the latest/trending/category-wise/upcoming movies/shows all at one place which are available on the internet.
+* [x]The database is used from TMDb.
 
-The database is used from TMDb.
+* Features : 
+  * []💬 User reviews/comments/ratings.
+  * []⭐ IMDb ratings.
+  * []🧲 Magnet or download link.
+  * []🔼 Upvote or 🔽 Downvote or 👍 like feature.
+  * []🥂 Link OTT platform to this website to watch all at one place.
+  * []🌐 It will be a _Native-App_ available for Android, IOS, WebOS, Linux, MacOS,etc.
 
-I took help from YouTube and documentation of Next.js and TailwindCSS.
+Currently this website is 🔨Under-construction but will soon have these features✔️.
 
-Website is live hosted on [Vercel](http://mrdb.vercel.app) and is constantly updated. Suggestions are most welcomed just mail me on aryanp@pm.me .
+Until then _star_ this repo for future updates🔔.
 
+Website is live hosted on [Vercel](http://mrdb.vercel.app) and is constantly updated.
 
-
+Suggestions are most welcomed just mail me on aryanp@pm.me.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
