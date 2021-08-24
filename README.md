@@ -2,16 +2,16 @@
 
 ![Build status](https://github.com/aryanxp/MRDb/actions/workflows/codeql-analysis.yml/badge.svg)
 
-* [x]Website which provides the latest/trending/category-wise/upcoming movies/shows all at one place which are available on the internet.
-* [x]The database is used from TMDb.
+* Website which provides the latest/trending/category-wise/upcoming movies/shows all at one place which are available on the internet.
+* The database is used from TMDb.
 
 * Features : 
-  * []💬 User reviews/comments/ratings.
-  * []⭐ IMDb ratings.
-  * []🧲 Magnet or download link.
-  * []🔼 Upvote or 🔽 Downvote or 👍 like feature.
-  * []🥂 Link OTT platform to this website to watch all at one place.
-  * []🌐 It will be a _Native-App_ available for Android, IOS, WebOS, Linux, MacOS,etc.
+  * 💬 User reviews/comments/ratings.
+  * ⭐ IMDb ratings.
+  * 🧲 Magnet or download link.
+  * 🔼 Upvote or 🔽 Downvote or 👍 like feature.
+  * 🥂 Link OTT platform to this website to watch all at one place.
+  * 🌐 It will be a _Native-App_ available for Android, IOS, WebOS, Linux, MacOS,etc.
 
 Currently this website is 🔨Under-construction but will soon have these features✔️.
 
