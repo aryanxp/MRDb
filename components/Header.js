@@ -8,7 +8,7 @@ import {
 import Image from "next/image";
 import HeaderItem from "./HeaderItem";
 
-function Header() {
+function Header({onClick}) {
   return (
     <header className="flex flex-col sm:flex-row m-5 justify-between items-center h-auto">
       <div className="flex flex-grow justify-evenly max-w-2xl">
@@ -16,7 +16,7 @@ function Header() {
         <HeaderItem title="TRENDING" Icon={LightningBoltIcon} />
         <HeaderItem title="CATEGORIES" Icon={CollectionIcon} />
         <HeaderItem title="SEARCH" Icon={SearchIcon} />
-        <HeaderItem title="LOGIN" Icon={UserIcon} />
+        <HeaderItem title="LOGIN" Icon={UserIcon} onClick={onClick}/>
       </div>
       <Image
         className="object-contain m-5"
