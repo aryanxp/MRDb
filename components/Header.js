@@ -16,7 +16,7 @@ function Header() {
         <HeaderItem title="TRENDING" Icon={LightningBoltIcon} />
         <HeaderItem title="CATEGORIES" Icon={CollectionIcon} />
         <HeaderItem title="SEARCH" Icon={SearchIcon} />
-        <HeaderItem title="USER" Icon={UserIcon} />
+        <HeaderItem title="LOGIN" Icon={UserIcon} />
       </div>
       <Image
         className="object-contain m-5"
